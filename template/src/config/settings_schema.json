@@ -1,0 +1,10 @@
+[
+  {
+    "name": "theme_info",
+    "theme_name": "<%= name %>",
+    "theme_version": "1.0.0",
+    "theme_author": "<%= author %>",
+    "theme_documentation_url": "<%= documentationUrl %>",
+    "theme_support_url": "<%= supportUrl %>"
+  }
+]

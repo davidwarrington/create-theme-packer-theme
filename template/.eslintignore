@@ -1,0 +1,5 @@
+node_modules/
+src/assets/
+dist/
+
+!.stylelintrc.js

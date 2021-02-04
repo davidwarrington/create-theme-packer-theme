@@ -5,6 +5,12 @@
     "repository": "git@github.com:davidwarrington/create-theme-packer-theme",
     "author": "davidwarrington <davidmwarrington+github@gmail.com>",
     "license": "MIT",
+    "dependencies": {
+        "consola": "^2.15.2",
+        "hosted-git-info": "^3.0.8",
+        "sao": "^1.7.1",
+        "yargs": "^16.2.0"
+    },
     "devDependencies": {
         "eslint": "^7.19.0",
         "eslint-config-airbnb-base": "^14.2.1",
