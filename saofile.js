@@ -232,7 +232,7 @@ module.exports = {
                 });
 
                 const runCommand =
-                    this.npmClient === 'yarn' ? 'yarn' : 'npm run';
+                    generator.npmClient === 'yarn' ? 'yarn' : 'npm run';
                 pkg.scripts.lint = usedLintScripts
                     .map(script => `${runCommand} ${script}`)
                     .join(' && ');
