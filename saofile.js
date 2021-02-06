@@ -107,6 +107,13 @@ module.exports = {
             },
         ];
 
+        actions.push({
+            type: 'move',
+            patterns: {
+                gitignore: '.gitignore',
+            },
+        });
+
         if (generator.answers.testFramework.length === 0) {
             actions.push({
                 files: 'tests',
