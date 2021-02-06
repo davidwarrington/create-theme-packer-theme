@@ -1,10 +1,10 @@
 # create-theme-packer-theme
 
-A scaffold for your [Theme-Packer](https://davidwarrington.github.io/theme-packer/) projects.
+Get started using [Theme-Packer](https://davidwarrington.github.io/theme-packer/) for your Shopify themes in seconds.
 
 ## Getting Started
 
-Run:
+Just run:
 ```shell
 $ yarn create theme-packer-theme ./theme
 ```
