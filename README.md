@@ -1,6 +1,6 @@
 # create-theme-packer-theme
 
-Get started using [Theme-Packer](https://davidwarrington.github.io/theme-packer/) for your Shopify themes in seconds.
+Get started using [Theme Packer](https://davidwarrington.github.io/theme-packer/) for your Shopify themes in seconds.
 
 ## Getting Started
 
