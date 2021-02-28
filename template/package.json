@@ -35,6 +35,6 @@
         "stylelint-config-standard": "^20.0.0",
         "stylelint-prettier": "^1.1.2",
         "stylelint-scss": "^3.18.0",
-        "theme-packer": "^1.0.0-beta.1"
+        "theme-packer": "^1.0.0-beta.3"
     }
 }
